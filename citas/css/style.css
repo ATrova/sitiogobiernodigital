@@ -79,6 +79,8 @@ nav.horizontal ul li {
 }/* horizontal menu */
 img {
 	max-width:100%;
+	vertical-align: middle;
+    align-content: center;
 }
 
 /*--- end reset code ---*/
@@ -141,7 +143,7 @@ p {
 .content-top{
     width: 50%;
     margin: 30px auto 30px;
-    background-color: rgba(8, 8, 8, 0.37);
+    background-color: rgba( 45, 103, 96, .7);
     padding: 40px 40px;
 }
 .content-wthree1,.content-wthree2,.content-wthree3,.content-wthree4 {
